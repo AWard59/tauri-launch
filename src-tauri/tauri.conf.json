@@ -38,6 +38,7 @@
     },
     "windows": [
       {
+        "label": "launcher",
         "fullscreen": false,
         "resizable": true,
         "title": "tauri-launch",
